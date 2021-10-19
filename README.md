@@ -1,2 +1,2 @@
-# TurtleDraw
-Python Turtle Draws star
+# TurtleDrawShapes
+Python Turtle Draws shapes
